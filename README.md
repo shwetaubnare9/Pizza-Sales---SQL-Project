@@ -1,10 +1,10 @@
-Pizza Sales Data Analysis using SQL
+# Pizza Sales Data Analysis using SQL
 
 The pizza company has a database that contains information about their orders, customers, and products. They want me to calculate some metrics and trends that can help them understand how their business is doing and what they can do to improve it. 
 
 DataSet Sorce: https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales/data
 
-DataSet Information
+# DataSet Information
 
 A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
 
